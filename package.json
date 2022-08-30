@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "next": "latest",
+    "next-auth": "^4.10.3",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sequelize": "latest",
+    "sqlite3": "latest",
+    "swr": "latest"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3"
+  }
+}
